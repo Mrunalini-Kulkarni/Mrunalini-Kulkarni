@@ -31,4 +31,4 @@
 ## 📫 Let's Connect!  
 🔹 *LinkedIn:* https://www.linkedin.com/in/mrunalinikulkarni/    
 
-🔹 *"Securing the digital world, one vulnerability at a time!"* 🚀
+*"Securing the digital world, one vulnerability at a time!"* 🚀
