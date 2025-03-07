@@ -7,7 +7,7 @@
 
 ## 💻 Tech Stack  
 🔹 **🖥️ Programming:** Python, Java, HTML, CSS 
-🔹 ** 🌐 Web Technologies:** Node.js, Flask, Django  
+🔹 **🌐 Web Technologies:** Node.js, Flask, Django  
 🔹 **🔐 Cybersecurity:** Nmap, Wireshark, Zphisher, Honeypots  
 🔹 **💾 Databases:** MySQL, MongoDB  
 🔹 **🛠️ DevOps & Tools:** Linux, Git  
